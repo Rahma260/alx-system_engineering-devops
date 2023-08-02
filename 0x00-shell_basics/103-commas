@@ -1,2 +1,2 @@
 #!/bin/bash 
-ls -m  --all
+ls -m  --all --sort=extension
